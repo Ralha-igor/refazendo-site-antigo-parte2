@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #003399;
+    color: #000000;
+    padding: 20px;
+    width: 200vh;
+    height: 10vh;
+  }
+  
+  header h1 {
+    padding-left: 200px;
+    margin: 0;
+  }
+  
+  nav {
+    padding-left: 200px;
+    font-size: 16px;
+  }
+  nav ul {
+    list-style-type: none; /* remove a estilização padrão da lista*/
+    margin: 0;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline; /*coloca o menu um do lado do outro*/
+    margin-right: 20px; /*da um espaço entre os menu*/
+  }
+  nav ul li a{
+    color: white;
+  }
+  input {
+    display: inline;
+  }
+ h2{
+    font-size: 16px;
+ }
+ .list-welcome{
+    background-color: #4976cf;
+ }
+ .format{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    align-items: center;
+ }
+ .color{
+    background-color: #ffcc33;
+ }
